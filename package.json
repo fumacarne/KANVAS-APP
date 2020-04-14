@@ -1,5 +1,5 @@
 {
-  "name": "todoloo",
+  "name": "kanvas",
   "version": "1.0.0",
   "description": "An shared todo app from crushing team task lists",
   "main": "server.js",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+ssh://git@github.comt"
   },
-  "author": "russomp",
+  "author": "fumacarne",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com"
